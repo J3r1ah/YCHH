@@ -2,10 +2,9 @@
 
 # YOU CANT HAVE HER
 
-<img src="
-YOU-HAVE-HER-official-blog-page-/images/YCHH.png" alt="YCHH" height="500x" width="500px">
 
 
+<img src="/YOU-HAVE-HER-official-blog-page-/images/YCHH" alt="rudo" height="500x" width="500px">
 #  PROlOGUE
 
 
