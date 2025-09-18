@@ -14,3 +14,7 @@
     </li>
   {% endfor %}
 </ul>
+
+<a href="_posts/post.md">Prologue</a>
+
+<a href="_posts/chapter-1-post.md"> chapter 1</a>
