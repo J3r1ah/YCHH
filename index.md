@@ -2,7 +2,7 @@
 
 # Story:
 
-<img src="/YCHH/images/YCHH" alt="rudo" height="500x" width="500px">
+<img src="/YCHH/images/ychh" alt="rudo" height="500x" width="500px">
 
 
 # Posts
