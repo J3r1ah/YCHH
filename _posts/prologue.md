@@ -2,7 +2,7 @@
 
 # YOU CANT HAVE HER
 
-<img src="/
+<img src="
 YOU-HAVE-HER-official-blog-page-/images/YCHH.png" alt="YCHH" height="500x" width="500px">
 
 
