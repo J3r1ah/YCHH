@@ -2,7 +2,7 @@
 
 # Story:
 
-<img src="/YOU-HAVE-HER-official-blog-page-/images/YCHH" alt="rudo" height="500x" width="500px">
+<img src="/YCHH/images/YCHH" alt="rudo" height="500x" width="500px">
 
 
 # Posts
