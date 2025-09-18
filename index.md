@@ -1,4 +1,4 @@
-  # YOU CANT HAVE HER!
+# YOU CANT HAVE HER!
 
 # Story:
 
